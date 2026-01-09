@@ -198,3 +198,13 @@ nav .menu a {
   width: 20px;
   height: 20px;
 }
+
+.early-access-section {
+  text-align: center;
+  background-color: #f7f6f2;
+  padding: 80px 40px;
+}
+.early-access-container p {
+  padding: 15px 0;
+  color: #627382;
+}
