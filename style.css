@@ -5,9 +5,9 @@
 .inter-open-sans {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+
   font-style: normal;
-  font-variation-settings: "wdth" 100;
+  font-variation-settings: 100;
 }
 
 .first-header {
@@ -37,8 +37,12 @@ nav .menu a {
   padding: 12px 16px;
   border-radius: 5px;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 400;
   cursor: pointer;
+}
+
+.btn:hover {
+  opacity: 0.6;
 }
 
 .banner {
