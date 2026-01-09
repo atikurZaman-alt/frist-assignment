@@ -208,3 +208,24 @@ nav .menu a {
   padding: 15px 0;
   color: #627382;
 }
+
+.social-media {
+  text-align: right;
+  padding: 10px 10px;
+}
+
+footer {
+  max-height: 350px;
+  background-color: #001931;
+  padding: 20px 5px;
+}
+
+footer p {
+  text-align: center;
+  color: #627382;
+  padding: 10px 0;
+}
+
+.social-media h3 {
+  color: #627382;
+}
